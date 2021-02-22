@@ -1,4 +1,5 @@
 # Dynamic_Programming
+![GitHub repo size](https://img.shields.io/github/repo-size/duttabhishek32/Dynamic_Programming?color=red&style=flat-square)
 
 This Repo will include all the programs as discussed in the video <br>:- https://www.youtube.com/watch?v=oBt53YbR9Kk&list=PLaoHAM76OnO_laSbi5MO7EPe8MFGZvbJo&index=1
 <br><b>in C++.</b>
@@ -13,5 +14,5 @@ You can also contribute to this repository, by making a PR.
 <li>Create a .cpp file, name it as dp_serial number_name, and make a PR.</li>
 </ol>
 
-A small contribution will help others learn new things.
+A small contribution will help others learn new things. Un-plagarized quality contributions are welcomed
 Thank you!
